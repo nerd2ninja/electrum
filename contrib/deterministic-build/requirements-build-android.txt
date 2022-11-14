@@ -121,7 +121,7 @@ PyQt-builder==1.12.2 \
 pytoml==0.1.21 \
     --hash=sha256:57a21e6347049f73bfb62011ff34cd72774c031b9828cb628a752225136dfc33 \
     --hash=sha256:8eecf7c8d0adcff3b375b09fe403407aa9b645c499e5ab8cac670ac4a35f61e7
-setuptools==61.3.1 \
+setuptools==65.5.1 \
     --hash=sha256:41aface2e85b517c3a466b4689b8055c02cd2e623461f09af7d93f3da65c4709 \
     --hash=sha256:88fafba4abc2f047e08a188fd4bbc10b0e464592c37b514c19f8f8f88d94450b
 sh==1.14.2 \
