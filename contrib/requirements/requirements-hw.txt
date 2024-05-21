@@ -5,3 +5,4 @@ keepkey>=6.3.1
 btchip-python>=0.1.32
 ckcc-protocol>=0.7.7
 bitbox02>=6.0.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
