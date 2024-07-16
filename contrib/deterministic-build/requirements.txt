@@ -267,7 +267,7 @@ qrcode==7.3.1 \
 QtPy==2.0.1 \
     --hash=sha256:adfd073ffbd2de81dc7aaa0b983499ef5c59c96adcfdcc9dea60d42ca885eb8f \
     --hash=sha256:d93f2c98e97387fcc9d623d509772af5b6c15ab9d8f9f4c5dfbad9a73ad34812
-setuptools==61.3.1 \
+setuptools==70.0.0 \
     --hash=sha256:41aface2e85b517c3a466b4689b8055c02cd2e623461f09af7d93f3da65c4709 \
     --hash=sha256:88fafba4abc2f047e08a188fd4bbc10b0e464592c37b514c19f8f8f88d94450b
 wheel==0.37.1 \
